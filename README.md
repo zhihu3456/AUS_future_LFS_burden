@@ -30,7 +30,6 @@ The repository contains:
 │   │     Baseline-to-future three-factor GBD decomposition with uncertainty.
 │   └── 05_gdp_amr_inequality_analysis.R
 │         GDP-AMR SII/RII inequality analysis; writes analysis tables
-│         (no figure/plot code).
 └── deep_learning/
     ├── 01_training_firepm25_rawflux_2000_2020_unet_random_10fold_external_2021_2023.ipynb
     ├── 02_predict_firepm25_ssp_17models_4ssp_to_daily_tif.ipynb
